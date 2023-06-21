@@ -1,3 +1,4 @@
 git add .
-git commit -m ""
+git commit -m "meu commit"
 git push origin dev
+git checkout -b  nome-da-branch
